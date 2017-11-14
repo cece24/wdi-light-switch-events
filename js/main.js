@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
       document.body.classList.remove('light');
       document.body.classList.add('dark');
 
-      status.innerText = "It's so dark in here!";
+      status.innerText = "Hey, who turned off the lights?";
     }
   })
 
